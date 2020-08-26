@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(238, 177, 149, 0.596);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:green;
+    text-align: center;
+}
+.cinza{
+    color: lightslategrey;
+}
+#azul{
+    color: mediumblue;
+}
+div{
+    margin:50px;
+    padding: 30px;
+    border: mediumvioletred solid 10px;
+}
+img{
+    width: 500px;
+    height: 350px;
+}
