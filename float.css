@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+div{
+    border: firebrick 1px solid;
+    
+}
+#um{
+    float:left;
+    background-color: forestgreen;
+    width: 100%;
+    height: 250px;
+}
+#dois{
+    background-color: hotpink;
+    float: left;
+    width: 50%;
+   
+    
+}
+#tres{
+    background-color: mediumpurple;
+    clear: both;
+  
+
+   
+   height: 450px;
+  
+
+}
+#quatro{
+    background-color: mediumblue;
+    
+    height: 250px;
+    margin:10px;
+    
+
+}
